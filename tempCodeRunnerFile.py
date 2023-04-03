@@ -1,0 +1,2 @@
+# export DEVELOPER_KEY=QIzaSyD9G993bcg2049OxR0d9KOZNkjo8AdkMJc
+# export CX=9e25cccedd0ad4433
